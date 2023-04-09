@@ -1,8 +1,5 @@
 # virtual-key
 
-                                                           
-                              			##Virtual Key 
-
 By Habtom Haile
 Class: Full Stack Java Developer
 Date: 04/09/2023
@@ -33,6 +30,13 @@ Application Objectives
 	If user press 1, the application will display all files if there are any files in MainFolder directory.
 	If user press 2, the application will take the user to the second menu. 
 	If user press 3, the application will stop and exit user from using this application. 
+	
+	
+	<img width="984" alt="Screen Shot 2023-04-09 at 2 54 46 PM" src="https://user-images.githubusercontent.com/129203319/230801201-35ae3e22-a77b-42a5-b328-548f72b827be.png">
+
+
+
+Screen Shot 2023-04-09 at 2.55.17 PM
 	     
 Core Concept of Application 
 	The core concept of this application is to learn bellow concepts.
